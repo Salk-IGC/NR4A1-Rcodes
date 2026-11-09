@@ -10,9 +10,8 @@ Raw and processed data are deposited in GEO:
 
 | Data | Accession |
 |------|-----------|
-| LKR10 RNA-seq (run 1 and run 2) | GSE302655 |
-| LKR10 RNA-seq (additional) | GSE351227 |
-| NR4A1 CUT&RUN (peaks, bigwigs) | GSE302652 |
+| LKR10 RNA-seq | GSE302655 & GSE351227 |
+| NR4A1 CUT&RUN | GSE302652 |
 
 ## Repository layout
 
